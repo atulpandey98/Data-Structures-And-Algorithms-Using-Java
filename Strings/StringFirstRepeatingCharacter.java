@@ -24,7 +24,7 @@ public class StringFirstRepeatingCharacter {
     }
 
     public static void main(String[] args) {
-        String str = "abcdefba";
+        String str = "abcdefba"; 
         System.out.println(firstRepeating(str));
     }
 }
