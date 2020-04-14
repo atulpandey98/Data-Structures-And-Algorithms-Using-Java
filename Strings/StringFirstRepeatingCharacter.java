@@ -2,6 +2,8 @@
 // For Eg:  Input: abba
 //          Output: a
 
+package Strings;
+
 import java.util.*;
 
 public class StringFirstRepeatingCharacter {
@@ -22,7 +24,7 @@ public class StringFirstRepeatingCharacter {
     }
 
     public static void main(String[] args) {
-        String str = "GeeksForGeeks";
+        String str = "abcdefba";
         System.out.println(firstRepeating(str));
     }
 }
