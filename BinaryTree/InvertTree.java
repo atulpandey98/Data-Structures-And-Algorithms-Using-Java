@@ -26,8 +26,11 @@ Output :   4
  *     }
  * }
  */
+// Time Complexity - O(n)
+// Space Complexity - O(h), h -> maximum height of tree.
 
 import BinaryTree.*;
+
 class Solution {
     public TreeNode invertTree(TreeNode root) {
         if(root == null) {
