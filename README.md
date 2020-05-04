@@ -10,7 +10,7 @@ I will be uploading data structures and algorithms questions in Java in this rep
 
 ## :file_folder: Structure of the repository
 
-As of now, the repository contains 3 main directories: Data Structures and Algorithms.
+As of now, the repository contains 2 main directories: Data Structures and Algorithms.
 Data Structures
 
 Contains all data structure questions categorised into sub-directories like stack, queue, etc according to their type.
